@@ -19,10 +19,10 @@
 
 | 赛道 | 报告人              | 标题                     | 幻灯片(访问帮助：[gitee](https://gitee.com/oscomp/seminar0-20201226/blob/main/20210110-tencent-help.pdf)、[github](https://github.com/oscomp/seminar0-20201226/blob/main/20210110-tencent-help.pdf)) | 视频                                                         |
 | ------------------- | ------------------- | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| OS内核实现 | 哈尔滨工业大学(深圳) 李程浩 | UltraOS的调试、内存优化、虚拟文件系统和多核支持 | [pptx](https://lexiangla.com/teams/k100041/docs/6952b944f40011ebae601ee5f714436f) | [报告视频] ( )、[问答和交流] ( ) |
-| OS内核实现 | 南开大学 阮志涵 | Busybox分析和在RWOS上的支持  | [pptx](https://lexiangla.com/teams/k100041/docs/7c0e4436f40011eba6d99ab331ddb30a) | [报告视频] ( )、[问答和交流] ( ) |
-| OS功能设计 | 中国科学技术大学 闫超美、王志强、黄致远 | TRMalloc——多层级、抗单粒子翻转的内存管理器的设计与性能优化  | [pptx](https://lexiangla.com/teams/k100041/docs/7c57793af40011ebae1e322afd6d9ca1) | [报告视频] ( )、[问答和交流] ( ) |
-| OS功能设计 | 哈尔滨工业大学(深圳) 潘延麒 | HoitFS在SylixOS上的设计与实现和优化 | [pptx](https://lexiangla.com/teams/k100041/docs/7c4082def40011eb99a3f23d91581564) | [报告视频] ( )、[问答和交流] ( ) |
+| OS内核实现 | 哈尔滨工业大学(深圳) 李程浩 | UltraOS的调试、内存优化、虚拟文件系统和多核支持 | [pptx](https://lexiangla.com/teams/k100041/docs/6952b944f40011ebae601ee5f714436f) | [报告视频](https://lexiangla.com/teams/k100041/classes/49ecd380edb311eb8895b68665daf7f9/courses/464f6006f91d11eb950386603785047d) 、[问答视频](https://lexiangla.com/teams/k100041/classes/49ecd380edb311eb8895b68665daf7f9/courses/46588cb2f91d11ebad4e86603785047d) |
+| OS内核实现 | 南开大学 阮志涵 | Busybox分析和在RWOS上的支持  | [pptx](https://lexiangla.com/teams/k100041/docs/7c0e4436f40011eba6d99ab331ddb30a) | [报告视频](https://lexiangla.com/teams/k100041/classes/49ecd380edb311eb8895b68665daf7f9/courses/467427c4f91d11eb943c86603785047d) 、[问答视频](https://lexiangla.com/teams/k100041/classes/49ecd380edb311eb8895b68665daf7f9/courses/4677f23cf91d11ebbb5b86603785047d) |
+| OS功能设计 | 中国科学技术大学 闫超美、王志强、黄致远 | TRMalloc——多层级、抗单粒子翻转的内存管理器的设计与性能优化  | [pptx](https://lexiangla.com/teams/k100041/docs/7c57793af40011ebae1e322afd6d9ca1) | [报告视频](https://lexiangla.com/teams/k100041/classes/49ecd380edb311eb8895b68665daf7f9/courses/fd6a5c6af91c11ebb79ec6c9d2fce83b) 、[问答视频](https://lexiangla.com/teams/k100041/classes/49ecd380edb311eb8895b68665daf7f9/courses/fd72e88af91c11ebbe31c6c9d2fce83b) |
+| OS功能设计 | 哈尔滨工业大学(深圳) 潘延麒 | HoitFS在SylixOS上的设计与实现和优化 | [pptx](https://lexiangla.com/teams/k100041/docs/7c4082def40011eb99a3f23d91581564) | [报告视频](https://lexiangla.com/teams/k100041/classes/49ecd380edb311eb8895b68665daf7f9/courses/fd78dda8f91c11eba05ac6c9d2fce83b) 、[问答视频](https://lexiangla.com/teams/k100041/classes/49ecd380edb311eb8895b68665daf7f9/courses/fd7bde36f91c11ebacacc6c9d2fce83b) |
 
 
 ### 报告交流会的腾讯会议和直播链接
